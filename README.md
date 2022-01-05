@@ -4,7 +4,7 @@ You need to click [REQUEST](https://johannesmilke.com/#/request "REQUEST") first
 
 [<img alt="JohannesMilke | REQUEST" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" />](https://johannesmilke.com/#/request "REQUEST")&ensp;[<img alt="JohannesMilke | ACCESS" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_access.png?alt=media" />](https://github.com/JohannesMilke-Sponsors/firestore_crud_update "ACCESS")
     
-# Flutter Tutorial - Cloud Firestore - Pagination & Infinite Scrolling [2022] FlutterFire UI 
+# Flutter Tutorial - CRUD With Firestore 🔥 | UPDATE Data & Delete Document [2022] 3/3 Firestore CRUD
 [![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![Newsletter](https://img.shields.io/static/v1?label=Follow&message=My%20Flutter%20Newsletter&color=5FB709&style=for-the-badge)][newsletter]
@@ -14,7 +14,7 @@ You need to click [REQUEST](https://johannesmilke.com/#/request "REQUEST") first
 [![GitHub stars](https://img.shields.io/github/stars/JohannesMilke/firestore_crud_update.svg?style=social&label=Star)](https://github.com/JohannesMilke/firestore_crud_update)
 [![GitHub JohannesMilke](https://img.shields.io/github/followers/JohannesMilke?label=follow&style=social)](https://github.com/JohannesMilke)
 
-How to load Firestore documents by pagination and infinite scrolling using a Flutter app.
+How to update and delete Firestore documents using a Flutter app.
 
 ### ✌&ensp;Preview
 
